@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @viditsharma69
+- 👋 Hi, I’m @viditsharma
 - 👀 I’m interested in software devlopment
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me viditsharma818@gmail.com
 
