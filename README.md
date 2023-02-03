@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @viditsharma
+- 👋 Hi, I’m @viditparashar
 - 👀 I’m interested in software devlopment
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
